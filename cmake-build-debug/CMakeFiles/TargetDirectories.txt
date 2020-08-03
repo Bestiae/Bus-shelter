@@ -1,0 +1,3 @@
+D:/Project for Git/fiit website/CLionProjects/projekt_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project for Git/fiit website/CLionProjects/projekt_3/cmake-build-debug/CMakeFiles/projekt_3.dir
+D:/Project for Git/fiit website/CLionProjects/projekt_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

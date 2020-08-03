@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Project for Git/fiit website/CLionProjects/projekt_3/cp_data1.h
+windows.h
+-
+unistd.h
+-
+
+D:/Project for Git/fiit website/CLionProjects/projekt_3/main.c
+stdio.h
+-
+cp_data1.h
+D:/Project for Git/fiit website/CLionProjects/projekt_3/cp_data1.h
+
